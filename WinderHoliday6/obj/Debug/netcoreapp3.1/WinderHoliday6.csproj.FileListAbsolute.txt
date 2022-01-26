@@ -1,0 +1,13 @@
+D:\编程\vs代码·\WinderHoliday6\bin\Debug\netcoreapp3.1\WinderHoliday6.exe
+D:\编程\vs代码·\WinderHoliday6\bin\Debug\netcoreapp3.1\WinderHoliday6.deps.json
+D:\编程\vs代码·\WinderHoliday6\bin\Debug\netcoreapp3.1\WinderHoliday6.runtimeconfig.json
+D:\编程\vs代码·\WinderHoliday6\bin\Debug\netcoreapp3.1\WinderHoliday6.runtimeconfig.dev.json
+D:\编程\vs代码·\WinderHoliday6\bin\Debug\netcoreapp3.1\WinderHoliday6.dll
+D:\编程\vs代码·\WinderHoliday6\bin\Debug\netcoreapp3.1\WinderHoliday6.pdb
+D:\编程\vs代码·\WinderHoliday6\obj\Debug\netcoreapp3.1\WinderHoliday6.csprojAssemblyReference.cache
+D:\编程\vs代码·\WinderHoliday6\obj\Debug\netcoreapp3.1\WinderHoliday6.AssemblyInfoInputs.cache
+D:\编程\vs代码·\WinderHoliday6\obj\Debug\netcoreapp3.1\WinderHoliday6.AssemblyInfo.cs
+D:\编程\vs代码·\WinderHoliday6\obj\Debug\netcoreapp3.1\WinderHoliday6.csproj.CoreCompileInputs.cache
+D:\编程\vs代码·\WinderHoliday6\obj\Debug\netcoreapp3.1\WinderHoliday6.dll
+D:\编程\vs代码·\WinderHoliday6\obj\Debug\netcoreapp3.1\WinderHoliday6.pdb
+D:\编程\vs代码·\WinderHoliday6\obj\Debug\netcoreapp3.1\WinderHoliday6.genruntimeconfig.cache
